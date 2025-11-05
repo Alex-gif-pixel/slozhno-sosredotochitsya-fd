@@ -250,6 +250,7 @@
 
   .content {
     margin-block: 60px;
+    gap: 80px;
   }
 
   .content__section {
@@ -265,6 +266,10 @@
 
   .answer {
     max-inline-size: 236px;
+  }
+
+  .image__title {
+    margin-block-end: 20px;
   }
 
   .gallery {
@@ -325,10 +330,6 @@
     block-size: 71px;
   }
 
-  .content {
-    gap: 80px;
-  }
-
   .column {
     gap: 10px;
   }
@@ -340,9 +341,5 @@
   .reasons {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-  }
-
-  .image__title {
-    margin-block-end: 20px;
   }
 }

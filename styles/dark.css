@@ -13,5 +13,6 @@
   --bg-color: #000028;
   --accent-color: #FF0070;
   --title-color: #DB00FF;
-  --title-decor: #000028
+  --title-decor: #000028;
+  --rec: flex;
 }
