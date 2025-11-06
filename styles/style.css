@@ -142,7 +142,7 @@
 }
 
 .content__title {
-  color: var(--accent-color);
+  color: var(--content-title-color);
   font-family: var(--font);
   font-size: var(--text-size);
   line-height: 130%;
