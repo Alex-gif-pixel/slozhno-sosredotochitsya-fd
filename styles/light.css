@@ -14,10 +14,12 @@
   --accent-color: #ff8dcb;
   --bt-color: #353430;
   --title-color: #ffc2e6;
+  --title-decor: #353430;
   --text-color: #353430;
   --subtitle-color: #353430;
   --accent-color-hover: rgba(50, 49, 45, 0.4);
   --rec: none;
+  --content-title-color: #353430;
 }
 
 @media (prefers-color-scheme: light) {
@@ -25,6 +27,7 @@
     --bg-image: url("../images/cover-image-light.png");
     --bg-color: #ffc2e6;
     --accent-color: #ff8dcb;
+    --title-decor: #353430;
     --title-color: #ffc2e6;
     --bt-color: #353430;
     --rec: none;
